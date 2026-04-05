@@ -128,42 +128,6 @@ Requisitos:
 * Garantir que o código esteja consistente com o pacote e com a estrutura de pastas.
 * Explicar ao final os principais pontos do código e alertar sobre possíveis erros de execução na IDE.
 
-* 
-### 📊 Resultado
-
-O modelo utilizado foi o ChatGPT baseado no GPT-5.3 (OpenAI).
-
-O resultado obtido foi satisfatório, pois o código gerado atendeu aos requisitos do enunciado, funcionando corretamente e seguindo os princípios de orientação a objetos.
-## 🤖 Uso de Inteligência Artificial
-
-Este projeto contou com o apoio de ferramentas de Inteligência Artificial (ChatGPT) para:
-- Esclarecimento de dúvidas conceituais
-- Revisão de código
-- Sugestões de melhorias estruturais
-
-Todo o código foi compreendido e validado manualmente.
-
----
-
-## 📎 Prompt utilizado
-Crie um projeto em Java completo, orientado a objetos, seguindo exatamente um enunciado de exercício acadêmico. O sistema deve ser organizado em múltiplas classes, com código pronto para compilar e executar.
-
-Requisitos:
-
-* Utilizar pacote definido por mim.
-* Criar todas as classes exigidas pelo enunciado.
-* Usar construtores em todas as classes.
-* Declarar todos os atributos como private.
-* Criar getters e setters apenas quando realmente necessários.
-* Não utilizar ArrayList nem bibliotecas prontas para coleções.
-* Utilizar arrays quando necessário.
-* Implementar a classe principal Main com interação via Scanner.
-* Seguir exatamente as regras de negócio, nomes das classes, atributos, métodos e relacionamentos do diagrama UML que eu fornecer.
-* Criar uma classe utilitária/helper, se o enunciado pedir.
-* Entregar o código separado por arquivos, com o nome de cada classe.
-* Garantir que o código esteja consistente com o pacote e com a estrutura de pastas.
-* Explicar ao final os principais pontos do código e alertar sobre possíveis erros de execução na IDE.
-
 Contexto do exercício:
 <img width="905" height="453" alt="image" src="https://github.com/user-attachments/assets/e76fed58-0823-4305-b1c2-4556198d6001" />
 <img width="917" height="360" alt="image" src="https://github.com/user-attachments/assets/811ba2be-6562-4d5c-8eee-ec52594b48e9" />
@@ -179,9 +143,8 @@ Além da implementação, gostaria que você:
 * Apontasse possíveis erros ou problemas que poderiam ocorrer durante a execução.
 * Explicasse brevemente as principais decisões tomadas na implementação.
 
----
+### 📊 Resultado
 
-Dados específicos:
-Nome do aluno: Mariana Moreira Souza
-Matrícula: 152
-Curso: Engenharia de Produção
+O modelo utilizado foi o ChatGPT baseado no GPT-5.3 (OpenAI).
+
+O resultado obtido foi satisfatório, pois o código gerado atendeu aos requisitos do enunciado, funcionando corretamente e seguindo os princípios de orientação a objetos.
